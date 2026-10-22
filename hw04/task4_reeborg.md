@@ -1,5 +1,6 @@
 For Hurdle 3 and Hurdle 4:
 
+
 def turn_right() :
     for i in range(3) :
         turn_left()
@@ -24,6 +25,8 @@ while not at_goal() :
         move()
 
 For Maze :
+
+
 def turn_right() :
     for i in range(3) :
         turn_left()
